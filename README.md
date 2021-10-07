@@ -1,6 +1,10 @@
 # Text Editor Application
-## Editor app in JAVA
+### Editor app in JAVA
 
+Packages used are 
+ - > Java Swing Package
+ - > Java AWT Package  
+  
 To run this application, follow the steps below:
 - Open command prompt window 
 - Go to the directory where you saved this java program (editor.java)
