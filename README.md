@@ -1,8 +1,8 @@
-# Java Editor Application
-## Editor app
+# Text Editor Application
+## Editor app in JAVA
 
-To run this Java application, you just need to follow these steps:
-- Open a command prompt window 
+To run this application, follow the steps below:
+- Open command prompt window 
 - Go to the directory where you saved this java program (editor.java)
 - > Type ```javac editor.java``` and press enter to compile the code
 - > Now, type ```java editor``` to run the application
